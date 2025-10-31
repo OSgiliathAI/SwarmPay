@@ -1,5 +1,5 @@
 # SwarmPay
 x402 Micropayments for Osgiliath AI Swarms
 
-Monetize swarm intelligence with instant Solana payments. Pay 0.01¢ to unlock real-time robot data—settled in <1s, verified on-chain.
+Monetize swarm intelligence with instant Solana payments. Pay micro amounts (0.01-$1) in $SOl or $osgiliath tokens to unlock real-time data—settled in seconds, verified on-chain. robots and dePin devices can also pay to unlock data autonomously.
 
